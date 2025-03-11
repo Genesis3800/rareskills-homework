@@ -1,0 +1,13 @@
+# Rust
+rareskills-rust/target/
+**/*.rs.bk
+Cargo.lock
+
+# Python
+**/__pycache__/
+**/*.py[cod]
+**/*.so
+**/build/
+**/dist/
+**/*.egg-info/
+**/.venv/
